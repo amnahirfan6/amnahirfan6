@@ -1,4 +1,4 @@
-## Hi there, I'm Amnah! 👋
+## Hi there, I'm Amnah, a Computer Engineering Student!👋
 
 # 💫 About Me:
 🔭 I’m currently working on assistive robotics, machine learning, and data analytics projects focused on accessibility<br><br>👯 I’m looking to collaborate on AI, computer vision, data analytics, and software engineering projects<br><br>🤝 I’m looking for help with improving full-stack development, cloud deployment, and scalable data workflows<br><br>🌱 I’m currently learning React, Power BI, cloud technologies, advanced machine learning workflows, and data visualization techniques<br><br>💬 Ask me about Python, machine learning, computer vision, data analytics, dashboards, and UI design<br><br>⚡ Fun fact: I enjoy combining engineering, design, AI, and analytics to build technology that solves real-world problems
